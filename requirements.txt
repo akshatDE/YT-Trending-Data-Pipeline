@@ -1,0 +1,17 @@
+# AWS Services
+boto3>=1.26.0
+botocore>=1.29.0
+awsglue>=3.0.0
+aws-wrangler>=3.0.0
+
+# Data Processing & Analysis
+pyspark>=3.4.0
+pandas>=1.5.0
+duckdb>=0.8.0
+
+# Data Ingestion
+kagglehub>=0.1.0
+kaggle>=1.5.0
+
+# Utilities
+python-dotenv>=0.21.0
