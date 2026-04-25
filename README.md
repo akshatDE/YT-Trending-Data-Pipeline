@@ -4,7 +4,7 @@
 > transforms it through a medallion architecture (Bronze → Silver → Gold), enforces data
 > quality gates, and surfaces campaign intelligence via Amazon QuickSight.
 
-![Dashboard Preview](dashboard/screenshots/Campagin_dashboard.pdf)
+![Dashboard Preview](dashboard/screenshots/00_full_dashboard.png)
 
 ---
 
